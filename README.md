@@ -2,17 +2,13 @@
 
 aim to Call for the establishment of a rating system for animation, movies, and games
 
-### Markdown
+## Markdown
 
-aim to Call for the establishment of a rating system for animation, movies, and games
+### 部分合集汇总
 
-```markdown
-aim to Call for the establishment of a rating system for animation, movies, and games
+![](D:\onedrive\桌面\妮妮图片.jpg)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see ...
 
 ### Jekyll Themes
 
