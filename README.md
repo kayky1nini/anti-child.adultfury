@@ -4,7 +4,7 @@ aim to Call for the establishment of a rating system for animation, movies, and 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+aim to Call for the establishment of a rating system for animation, movies, and games
 
 ```markdown
 aim to Call for the establishment of a rating system for animation, movies, and games
